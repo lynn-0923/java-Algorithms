@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7910316c-4373-41d2-96e9-6c2ac1a25f51" name="Default Changelist" comment="" />
+    <list default="true" id="7910316c-4373-41d2-96e9-6c2ac1a25f51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sparsearry/com/wu/SparseArry.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,86 +14,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wu/day06/sort/ShellSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-560">
-              <caret line="13" column="26" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="13" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wu/day06/sort/SelectSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="514">
-              <caret line="50" column="32" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="50" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wu/day06/sort/RadixSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1216">
-              <caret line="13" column="25" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="13" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wu/day06/sort/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wu/day06/sort/HeapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="59" column="18" selection-start-line="59" selection-end-line="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wu/day09/tree/threadedbinarytree/ThreadedBinaryTreeDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-              <folding>
-                <element signature="method#delete#0;class#ThreadedBinaryTree#0" />
-                <element signature="method#deletePlus#0;class#ThreadedBinaryTree#0" />
-                <element signature="method#postOrder#0;class#ThreadedBinaryTree#0" />
-                <element signature="method#preOrderSearch#0;class#ThreadedBinaryTree#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/wu/day06/test/HeapSort.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wu/day10/huffman/HuffmanCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wu/day06/sort/InsertSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="29" column="36" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="29" selection-end-column="36" />
+            <state relative-caret-position="88">
+              <caret line="194" column="14" selection-start-line="194" selection-start-column="14" selection-end-line="194" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,6 +94,9 @@
         <option value="$PROJECT_DIR$/src/com/wu/day09/tree/threadedbinarytree/ThreadedBinaryTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day06/sort/HeapSort.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day06/test/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day10/Min.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day10/HuffmanTree.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day10/huffman/HuffmanCode.java" />
       </list>
     </option>
   </component>
@@ -185,8 +119,9 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-10" />
+    <option name="y" value="1" />
     <option name="width" value="1935" />
     <option name="height" value="1039" />
   </component>
@@ -198,8 +133,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,31 +160,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="wu" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="数据结构java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="数据结构java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="wu" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="数据结构java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="数据结构java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="wu" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="数据结构java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="数据结构java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="wu" type="462c0819:PsiDirectoryNode" />
-              <item name="day09" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -260,8 +170,8 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/数据结构java/src/com/wu/day01/queue/CircleArrayQueueDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584497971228" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584620700940" />
+    <property name="last_opened_file_path" value="D:/java学习/springboot实战/blog" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -284,37 +194,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HeapSort (1)">
+  <component name="RunManager" selected="Application.HuffmanCode">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayBinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wu.day09.tree.ArrayBinaryTreeDemo" />
-      <module name="数据结构java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wu.day09.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wu.day09.tree.BinaryTreeDemo" />
-      <module name="数据结构java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wu.day09.tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -347,13 +229,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadedBinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wu.day09.tree.threadedbinarytree.ThreadedBinaryTreeDemo" />
+    <configuration name="HuffmanCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.day10.huffman.HuffmanCode" />
       <module name="数据结构java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wu.day09.tree.threadedbinarytree.*" />
+          <option name="PATTERN" value="com.wu.day10.huffman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.day10.HuffmanTree" />
+      <module name="数据结构java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.day10.Min" />
+      <module name="数据结构java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -391,19 +301,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinaryTreeDemo" />
-      <item itemvalue="Application.ArrayBinaryTreeDemo" />
-      <item itemvalue="Application.ThreadedBinaryTreeDemo" />
       <item itemvalue="Application.HeapSort" />
       <item itemvalue="Application.HeapSort (1)" />
+      <item itemvalue="Application.Min" />
+      <item itemvalue="Application.HuffmanTree" />
+      <item itemvalue="Application.HuffmanCode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HuffmanCode" />
+        <item itemvalue="Application.HuffmanTree" />
+        <item itemvalue="Application.Min" />
         <item itemvalue="Application.HeapSort (1)" />
         <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.ThreadedBinaryTreeDemo" />
-        <item itemvalue="Application.ArrayBinaryTreeDemo" />
-        <item itemvalue="Application.BinaryTreeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +337,9 @@
       <workItem from="1584062118353" duration="22961000" />
       <workItem from="1584149766688" duration="23015000" />
       <workItem from="1584198594252" duration="24805000" />
-      <workItem from="1584408971968" duration="25491000" />
+      <workItem from="1584408971968" duration="42377000" />
+      <workItem from="1584536070921" duration="25000" />
+      <workItem from="1584536147284" duration="15217000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构">
       <created>1584079057062</created>
@@ -440,13 +352,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226765000" />
+    <option name="totallyTimeSpent" value="258893000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1548" height="831" extended-state="0" />
+    <frame x="-8" y="2" width="1548" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18724832" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19261745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -455,16 +367,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32842416" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798658" weight="0.27433628" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36135694" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49798658" visible="true" weight="0.29246676" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36082473" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32448378" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50201344" side_tool="true" weight="0.27621862" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4986577" weight="0.32448378" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013423" side_tool="true" weight="0.32448378" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3259587" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32547864" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -531,18 +443,6 @@
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/wu/day06/sort/HeapSort.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/wu/day06/test/HeapSort.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -550,36 +450,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day01/sparsearry/src/com/wu/SparseArry.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/wu/queue.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day01/sparseArry/SparseArry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-84">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day01/test/SparseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="69" column="5" lean-forward="true" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day01/test/QueueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="108" column="50" lean-forward="true" selection-start-line="108" selection-start-column="50" selection-end-line="108" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day02/test/SingleLinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5012">
-          <caret line="183" column="20" selection-start-line="183" selection-start-column="20" selection-end-line="183" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wu/day02/linkedList/DoubleLinkedListDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-13">
@@ -791,10 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="82" column="5" lean-forward="true" selection-start-line="77" selection-start-column="3" selection-end-line="82" selection-end-column="5" />
-          <folding>
-            <element signature="e#2082#2083#0" expanded="true" />
-            <element signature="e#2114#2115#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -802,21 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-392">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="892" selection-start-line="892" selection-end-line="892" />
-          <folding>
-            <element signature="e#33919#33920#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -857,9 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="514">
           <caret line="50" column="32" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="50" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -888,29 +736,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
           <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding>
-            <element signature="method#delete#0;class#ThreadedBinaryTree#0" />
-            <element signature="method#deletePlus#0;class#ThreadedBinaryTree#0" />
-            <element signature="method#postOrder#0;class#ThreadedBinaryTree#0" />
-            <element signature="method#preOrderSearch#0;class#ThreadedBinaryTree#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day06/sort/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day10/Min.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day06/test/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="59" column="18" selection-start-line="59" selection-end-line="60" />
+        <state>
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/数据结构资料/代码/DataStructures/src/com/atguigu/huffmancode/HuffmanCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-924">
+          <caret line="92" column="29" lean-forward="true" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day10/HuffmanTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day06/test/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day06/sort/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="-370">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="531" column="22" selection-start-line="531" selection-start-column="22" selection-end-line="531" selection-end-column="22" />
+          <folding>
+            <element signature="e#33891#33892#0" expanded="true" />
+            <element signature="e#33919#33920#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1798">
+          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/java学习/springboot实战/blog/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day10/huffman/HuffmanCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="194" column="14" selection-start-line="194" selection-start-column="14" selection-end-line="194" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
