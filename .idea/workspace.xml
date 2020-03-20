@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7910316c-4373-41d2-96e9-6c2ac1a25f51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day09/tree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day09/tree/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day09/tree/BinaryTreeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day09/tree/BinaryTreeDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day09/tree/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day09/tree/HeroNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wu/day09/tree/BinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wu/day09/tree/BinaryTreeDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -119,7 +115,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
     <option name="width" value="1935" />
     <option name="height" value="1040" />
@@ -357,7 +353,8 @@
       <workItem from="1584536070921" duration="25000" />
       <workItem from="1584536147284" duration="15217000" />
       <workItem from="1584621185281" duration="29165000" />
-      <workItem from="1584715386978" duration="599000" />
+      <workItem from="1584715386978" duration="677000" />
+      <workItem from="1584718031395" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构">
       <created>1584079057062</created>
@@ -370,13 +367,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288657000" />
+    <option name="totallyTimeSpent" value="288765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1548" height="832" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19798657" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20067114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -391,7 +387,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4986577" weight="0.32448378" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4986577" visible="true" weight="0.3240059" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013423" side_tool="true" weight="0.32448378" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32448378" />
