@@ -1,5 +1,10 @@
 package com.wu.day09.tree;
 
+import javax.swing.tree.TreeNode;
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
+
 /**
  * @author lynn
  * @date 2020/3/15 - 13:10
@@ -14,21 +19,26 @@ public class BinaryTreeDemo {
         HeroNode node4 = new HeroNode(4, "吴狗");
         HeroNode node5 = new HeroNode(5, "高狗狗");
         HeroNode node6 = new HeroNode(6, "高");
-        HeroNode node7 = new HeroNode(7, "狗狗");
-        HeroNode node8 = new HeroNode(8, "小高");
+      /*  HeroNode node7 = new HeroNode(7, "狗狗");
+        HeroNode node8 = new HeroNode(8, "小高");*/
         binaryTree.setRoot(root);
         root.setLeft(node4);
         root.setRight(node2);
         node2.setLeft(node3);
         node2.setRight(node5);
         node3.setLeft(node6);
-        node3.setRight(node7);
-        node5.setRight(node8);
+       /* node3.setRight(node7);
+        node5.setRight(node8);*/
         System.out.println("删除前");
         binaryTree.preOrder();
-        System.out.println("删除后");
+        //打印
+        ArrayList<Integer> integers = binaryTree.printFromTopToBottom(root);
+        for (Integer i : integers){
+            System.out.println(i);
+        }
+        /*System.out.println("删除后");
         binaryTree.deletePlus(2);
-        binaryTree.preOrder();
+        binaryTree.preOrder();*/
      /*   //测试前序
         System.out.println("前序遍历");//1,4,2,3,5
         binaryTree.preOrder();
@@ -79,7 +89,27 @@ class BinaryTree {
     public void setRoot(HeroNode root) {
         this.root = root;
     }
-
+    //从上往下打印出二叉树的每个节点，同层节点从左至右打印。
+    public   ArrayList<Integer> printFromTopToBottom(HeroNode root) {
+        ArrayList<Integer> list = new ArrayList<>();
+        if (root == null) {
+            return list;
+        }
+        Queue<HeroNode> queue = new LinkedList<>();
+        HeroNode node =root;
+        queue.add(node);
+        while (!queue.isEmpty()) {
+            node = queue.poll();
+            list.add(node.getId());
+            if (node.getLeft() != null) {
+                queue.add(node.getLeft());
+            }
+            if (node.getRight() != null) {
+                queue.add(node.getRight());
+            }
+        }
+        return list;
+    }
     //删除结点
     public void delete(int no) {
         if (this.root != null) {
