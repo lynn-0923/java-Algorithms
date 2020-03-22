@@ -19,7 +19,7 @@ public class BinarySearch {
         }*/
 
         int[] arr = {5, 5, 5, 8, 10, 1000, 1234};
-        List<Integer> list = binarySearch2(arr, 0, arr.length - 1, 9);
+        List<Integer> list = binarySearch2(arr, 0, arr.length - 1, 5);
         if (list.size() > 0 && list != null) {
             for (int i = 0; i < list.size(); i++) {
                 System.out.println(list.get(i));
@@ -78,7 +78,7 @@ public class BinarySearch {
             //接着向左边扫描
             int temp = mid - 1;
             while (true) {
-                if (temp < 0 || arr[temp] != value) {//退出
+                if (temp < 0 || arr[temp] != value) {// 因为是顺序的 如果相邻不是则退出
                     break;
                 }
                 //将temp添加到集合中

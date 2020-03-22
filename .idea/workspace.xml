@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7910316c-4373-41d2-96e9-6c2ac1a25f51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day07/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day07/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wu/day07/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wu/day07/BinarySearch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,22 +30,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/wu/day13/graph/Graph.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wu/day14_Algorithms/divided_and_conquer/HanoiTower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="85">
+              <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3345#3346#0" expanded="true" />
-                <element signature="e#3385#3386#0" expanded="true" />
-                <element signature="e#3432#3433#0" expanded="true" />
-                <element signature="e#3465#3466#0" expanded="true" />
-                <element signature="e#3543#3544#0" expanded="true" />
-                <element signature="e#3587#3588#0" expanded="true" />
-                <element signature="e#3648#3649#0" expanded="true" />
-                <element signature="e#3684#3685#0" expanded="true" />
-                <element signature="e#4052#4053#0" expanded="true" />
-                <element signature="e#4090#4091#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,8 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/wu/day3/ArrayStack.java" />
-        <option value="$PROJECT_DIR$/src/com/wu/day3/ArrayStackDemo.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day02/linkedList/Josephu.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day02/test/Josephu.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day3/Calculator.java" />
@@ -92,7 +82,6 @@
         <option value="$PROJECT_DIR$/src/com/wu/day06/test/MergeSortTest.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day06/test/RadixSortTest.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day07/SeqSearch.java" />
-        <option value="$PROJECT_DIR$/src/com/wu/day07/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day07/InsertValSearch.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day08/hashtab/HashTab.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day08/hashtab/HashTabDemo.java" />
@@ -120,6 +109,9 @@
         <option value="$PROJECT_DIR$/src/com/wu/day15/AVLTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day16/AVLTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day13/graph/Graph.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day07/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day14_Algorithms/binary_search_no_recursion/BinarySearchNoRecur.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day14_Algorithms/divided_and_conquer/HanoiTower.java" />
       </list>
     </option>
   </component>
@@ -142,7 +134,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1935" />
     <option name="height" value="1040" />
@@ -181,6 +173,14 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="wu" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="数据结构java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="数据结构java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="wu" type="462c0819:PsiDirectoryNode" />
+              <item name="day14_Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -192,7 +192,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/数据结构java/src/com/wu/day01/queue/CircleArrayQueueDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584876297927" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584886021443" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -222,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Graph">
+  <component name="RunManager" selected="Application.HanoiTower">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -243,13 +243,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySortTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wu.day11.BinarySortTreeDemo" />
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.day07.BinarySearch" />
       <module name="数据结构java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wu.day11.*" />
+          <option name="PATTERN" value="com.wu.day07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,27 +257,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySortTreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wu.day11.binarysorttree.BinarySortTreeTest" />
+    <configuration name="BinarySearchNoRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.day14_Algorithms.binary_search_no_recursion.BinarySearchNoRecur" />
       <module name="数据结构java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wu.day11.binarysorttree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wu.day09.tree.BinaryTreeDemo" />
-      <module name="数据结构java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wu.day09.tree.*" />
+          <option name="PATTERN" value="com.wu.day14_Algorithms.binary_search_no_recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,6 +278,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wu.day13.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HanoiTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.day14_Algorithms.divided_and_conquer.HanoiTower" />
+      <module name="数据结构java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.day14_Algorithms.divided_and_conquer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,19 +329,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinarySortTreeDemo" />
-      <item itemvalue="Application.BinarySortTreeTest" />
-      <item itemvalue="Application.BinaryTreeDemo" />
       <item itemvalue="Application.AVLTreeDemo" />
       <item itemvalue="Application.Graph" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.BinarySearchNoRecur" />
+      <item itemvalue="Application.HanoiTower" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HanoiTower" />
+        <item itemvalue="Application.BinarySearchNoRecur" />
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Graph" />
         <item itemvalue="Application.AVLTreeDemo" />
-        <item itemvalue="Application.BinaryTreeDemo" />
-        <item itemvalue="Application.BinarySortTreeTest" />
-        <item itemvalue="Application.BinarySortTreeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +375,7 @@
       <workItem from="1584722718456" duration="297000" />
       <workItem from="1584753186372" duration="1281000" />
       <workItem from="1584754566087" duration="3059000" />
-      <workItem from="1584838135533" duration="12501000" />
+      <workItem from="1584838135533" duration="20644000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构">
       <created>1584079057062</created>
@@ -388,13 +388,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="306158000" />
+    <option name="totallyTimeSpent" value="314301000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21380697" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21380697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -403,15 +403,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32842416" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798658" visible="true" weight="0.2890511" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.359352" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798658" weight="0.2890511" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3591241" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4986577" weight="0.3240059" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4986577" weight="0.32262772" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013423" side_tool="true" weight="0.32448378" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.329927" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32448378" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -457,6 +457,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -473,17 +483,25 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/wu/day07/BinarySearch.java</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/wu/day09/tree/BinaryTreeDemo.java</url>
           <line>34</line>
           <properties />
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/wu/day14_Algorithms/binary_search_no_recursion/BinarySearchNoRecur.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/wu/day14_Algorithms/divided_and_conquer/HanoiTower.java</url>
+          <line>18</line>
+          <properties class="com.wu.day14_Algorithms.divided_and_conquer.HanoiTower" method="hanoiTower">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -492,20 +510,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day05/Queen8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day01/queue/CircleArrayQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wu/day06/sort/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -552,13 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="333" selection-start-line="333" selection-end-line="333" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="507" selection-start-line="507" selection-end-line="507" />
         </state>
       </provider>
     </entry>
@@ -618,13 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day07/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wu/day07/InsertValSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -656,13 +646,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4872" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day09/tree/ArrayBinaryTreeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="87" column="9" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wu/day06/sort/ShellSort.java">
@@ -836,6 +819,47 @@
             <element signature="e#3684#3685#0" expanded="true" />
             <element signature="e#4052#4053#0" expanded="true" />
             <element signature="e#4090#4091#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day09/tree/ArrayBinaryTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day07/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="98" column="8" lean-forward="true" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day14_Algorithms/binary_search_no_recursion/BinarySearchNoRecur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <caret line="28" column="80" lean-forward="true" selection-start-line="28" selection-start-column="80" selection-end-line="28" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="487" selection-start-line="487" selection-end-line="487" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day14_Algorithms/divided_and_conquer/HanoiTower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
           </folding>
         </state>
       </provider>
