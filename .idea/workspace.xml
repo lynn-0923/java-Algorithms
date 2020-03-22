@@ -11,13 +11,40 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/wu/day12/avl_tree/AVLTreeDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wu/day13/graph/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="305" column="13" selection-start-line="305" selection-start-column="13" selection-end-line="305" selection-end-column="13" />
+            <state relative-caret-position="343">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3345#3346#0" expanded="true" />
+                <element signature="e#3385#3386#0" expanded="true" />
+                <element signature="e#3432#3433#0" expanded="true" />
+                <element signature="e#3465#3466#0" expanded="true" />
+                <element signature="e#3543#3544#0" expanded="true" />
+                <element signature="e#3587#3588#0" expanded="true" />
+                <element signature="e#3648#3649#0" expanded="true" />
+                <element signature="e#3684#3685#0" expanded="true" />
+                <element signature="e#4052#4053#0" expanded="true" />
+                <element signature="e#4090#4091#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,15 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/wu/queue/CicleArrayQueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/wu/queue/CircleArrayQueueDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/wu/test/SparseTest.java" />
-        <option value="$PROJECT_DIR$/src/com/wu/day01/test/SparseTest.java" />
-        <option value="$PROJECT_DIR$/src/com/wu/day01/test/QueueTest.java" />
-        <option value="$PROJECT_DIR$/src/com/wu/day02/linkedList/SingleLinkedListDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/wu/day02/SingleLinkedListTest.java" />
-        <option value="$PROJECT_DIR$/src/com/wu/day02/linkedList/DoubleLinkedListDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/wu/day02/test/DoubleLinkedListDemo.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day3/ArrayStack.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day3/ArrayStackDemo.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day02/linkedList/Josephu.java" />
@@ -92,7 +110,16 @@
         <option value="$PROJECT_DIR$/src/com/wu/day11/BinarySortTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day11/binarysorttree/BinarySortTreeTest.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day09/tree/BinaryTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day13/day12/avl_tree/AVLTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day14/day13/day12/avl_tree/AVLTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day15/day14/day13/day12/avl_tree/AVLTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day16/day15/day14/day13/day12/avl_tree/AVLTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day12/avl_tree/AVLTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day13/AVLTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day14/AVLTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day15/AVLTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day16/AVLTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day13/graph/Graph.java" />
       </list>
     </option>
   </component>
@@ -115,7 +142,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="width" value="1935" />
     <option name="height" value="1040" />
@@ -154,23 +181,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="wu" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="数据结构java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="数据结构java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="wu" type="462c0819:PsiDirectoryNode" />
-              <item name="day12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="数据结构java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="数据结构java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="wu" type="462c0819:PsiDirectoryNode" />
-              <item name="day12" type="462c0819:PsiDirectoryNode" />
-              <item name="avl_tree" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -182,13 +192,19 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/数据结构java/src/com/wu/day01/queue/CircleArrayQueueDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584708468496" />
-    <property name="last_opened_file_path" value="D:/java学习/springboot实战/blog" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584876297927" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\数据结构java\src\com\wu\day16" />
+      <recent name="F:\数据结构java\src\com\wu\day15" />
+      <recent name="F:\数据结构java\src\com\wu\day14" />
+      <recent name="F:\数据结构java\src\com\wu\day13" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\数据结构java" />
       <recent name="F:\数据结构java\day01" />
@@ -206,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AVLTreeDemo">
+  <component name="RunManager" selected="Application.Graph">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -214,12 +230,12 @@
       </method>
     </configuration>
     <configuration name="AVLTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wu.day12.avl_tree.AVLTreeDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.wu.day16.day15.day14.day13.day12.avl_tree.AVLTreeDemo" />
       <module name="数据结构java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wu.day12.avl_tree.*" />
+          <option name="PATTERN" value="com.wu.day16.day15.day14.day13.day12.avl_tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,13 +285,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HuffmanCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wu.day10.huffman.HuffmanCode" />
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.day13.graph.Graph" />
       <module name="数据结构java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wu.day10.huffman.*" />
+          <option name="PATTERN" value="com.wu.day13.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,19 +329,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HuffmanCode" />
       <item itemvalue="Application.BinarySortTreeDemo" />
       <item itemvalue="Application.BinarySortTreeTest" />
       <item itemvalue="Application.BinaryTreeDemo" />
       <item itemvalue="Application.AVLTreeDemo" />
+      <item itemvalue="Application.Graph" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Graph" />
         <item itemvalue="Application.AVLTreeDemo" />
         <item itemvalue="Application.BinaryTreeDemo" />
         <item itemvalue="Application.BinarySortTreeTest" />
         <item itemvalue="Application.BinarySortTreeDemo" />
-        <item itemvalue="Application.HuffmanCode" />
       </list>
     </recent_temporary>
   </component>
@@ -355,6 +371,11 @@
       <workItem from="1584621185281" duration="29165000" />
       <workItem from="1584715386978" duration="677000" />
       <workItem from="1584718031395" duration="30000" />
+      <workItem from="1584718130415" duration="255000" />
+      <workItem from="1584722718456" duration="297000" />
+      <workItem from="1584753186372" duration="1281000" />
+      <workItem from="1584754566087" duration="3059000" />
+      <workItem from="1584838135533" duration="12501000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构">
       <created>1584079057062</created>
@@ -367,12 +388,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288765000" />
+    <option name="totallyTimeSpent" value="306158000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1548" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20067114" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21380697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -381,13 +403,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32842416" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49798658" visible="true" weight="0.2920354" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.359882" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798658" visible="true" weight="0.2890511" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.359352" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4986577" visible="true" weight="0.3240059" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4986577" weight="0.3240059" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013423" side_tool="true" weight="0.32448378" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32448378" />
@@ -398,7 +420,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3295302" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
@@ -470,41 +492,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day02/linkedList/Josephu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2576">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day02/test/Josephu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="102" column="32" lean-forward="true" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day03/ArrayStackDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1004">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day05/MiGong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wu/day05/Queen8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -645,13 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day02/linkedList/SingleLinkedListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="104" column="9" lean-forward="true" selection-start-line="96" selection-start-column="8" selection-end-line="104" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wu/day08/hashtab/HashTabDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -746,9 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1344">
           <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -785,9 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5346">
           <caret line="194" column="14" selection-start-line="194" selection-start-column="14" selection-end-line="194" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -825,16 +799,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3736">
           <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wu/day12/avl_tree/AVLTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="305" column="13" selection-start-line="305" selection-start-column="13" selection-end-line="305" selection-end-column="13" />
+        <state relative-caret-position="256">
+          <caret line="173" column="6" selection-start-line="173" selection-start-column="6" selection-end-line="173" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day13/AVLTreeDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day14/AVLTreeDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day15/AVLTreeDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day16/AVLTreeDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day02/linkedList/SingleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="179" column="15" selection-start-line="179" selection-start-column="15" selection-end-line="179" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day13/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3345#3346#0" expanded="true" />
+            <element signature="e#3385#3386#0" expanded="true" />
+            <element signature="e#3432#3433#0" expanded="true" />
+            <element signature="e#3465#3466#0" expanded="true" />
+            <element signature="e#3543#3544#0" expanded="true" />
+            <element signature="e#3587#3588#0" expanded="true" />
+            <element signature="e#3648#3649#0" expanded="true" />
+            <element signature="e#3684#3685#0" expanded="true" />
+            <element signature="e#4052#4053#0" expanded="true" />
+            <element signature="e#4090#4091#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
