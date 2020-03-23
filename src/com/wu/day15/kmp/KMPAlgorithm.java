@@ -9,7 +9,7 @@ import java.util.Arrays;
 public class KMPAlgorithm {
     public static void main(String[] args) {
         String str1 = "BBC ABCDAB ABCDABCDABDE";
-        String str2 = "ABCDABD_;
+        String str2 = "ABCDABD";
 
         int[] kmpNext = kmpNext("ABCDABD");
         System.out.println(Arrays.toString(kmpNext));
@@ -19,30 +19,31 @@ public class KMPAlgorithm {
     }
 
 
-
     /**
      * 写出kmp搜索算法
+     *
      * @param str1 源字符串
      * @param str2 子串
      * @param next kpm表
      * @return 如果匹配成功则返回下标 未成功则返回-1
      */
-    public static int kmpSearch(String str1,String str2,int[] next){
-        for (int i = 0 , j = 0; i < str1.length() ; i++) {
+    public static int kmpSearch(String str1, String str2, int[] next) {
+        for (int i = 0, j = 0; i < str1.length(); i++) {
             //str1.charAt(i) ！= str2.charAt(j) 去调整j的大小
             //kmp算法的核心
-            while (j > 0 && str1.charAt(i) != str2.charAt(j)){
+            while (j > 0 && str1.charAt(i) != str2.charAt(j)) {
                 j = next[j - 1];
             }
-            if (str1.charAt(i) == str2.charAt(j)){
+            if (str1.charAt(i) == str2.charAt(j)) {
                 j++;
             }
-            if (j == str2.length()){//找到了 j = 3, i=2
+            if (j == str2.length()) {//找到了 j = 3, i=2
                 return i - j + 1;
             }
         }
         return -1;
     }
+
     //获取到一个字符串(子串)的部分匹配表
     public static int[] kmpNext(String dest) {
         //创建一个next数组保存部分匹配值
