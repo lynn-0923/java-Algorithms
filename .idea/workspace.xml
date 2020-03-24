@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7910316c-4373-41d2-96e9-6c2ac1a25f51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day14_Algorithms/divided_and_conquer/HanoiTower.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day14_Algorithms/divided_and_conquer/HanoiTower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wu/day14_Algorithms/divided_and_conquer/HanoiTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wu/day14_Algorithms/divided_and_conquer/HanoiTower.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,19 +28,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/wu/day15/kmp/KMPAlgorithm.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wu/day16/prim/PrimAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wu/day15/kmp/ViolenceMatch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            <state relative-caret-position="275">
+              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,8 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/wu/day04/PolandNotation.java" />
-        <option value="$PROJECT_DIR$/src/com/wu/day05/MiGong.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day05/Queen8.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day06/sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day06/sort/SelectSort.java" />
@@ -118,6 +108,8 @@
         <option value="$PROJECT_DIR$/src/com/wu/day15/dynamic/KnapsackProblem.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day15/kmp/ViolenceMatch.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day15/kmp/KMPAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day16/greedy/GreedyAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day16/prim/PrimAlgorithm.java" />
       </list>
     </option>
   </component>
@@ -141,8 +133,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="1935" />
+    <option name="x" value="-15" />
+    <option name="width" value="1940" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -154,7 +146,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,7 +177,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="wu" type="462c0819:PsiDirectoryNode" />
-              <item name="day15" type="462c0819:PsiDirectoryNode" />
+              <item name="day16" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="数据结构java" type="b2602c69:ProjectViewProjectNode" />
@@ -194,24 +185,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="wu" type="462c0819:PsiDirectoryNode" />
-              <item name="day15" type="462c0819:PsiDirectoryNode" />
-              <item name="kmp" type="462c0819:PsiDirectoryNode" />
+              <item name="day16" type="462c0819:PsiDirectoryNode" />
+              <item name="greedy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/数据结构java/src/com/wu/day01/queue/CircleArrayQueueDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584971053045" />
-    <property name="last_opened_file_path" value="F:/剑指offer" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585062110638" />
+    <property name="last_opened_file_path" value="F:/java基础" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -237,34 +229,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KMPAlgorithm">
+  <component name="RunManager" selected="Application.PrimAlgorithm">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearchNoRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wu.day14_Algorithms.binary_search_no_recursion.BinarySearchNoRecur" />
+    <configuration name="GreedyAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.day16.greedy.GreedyAlgorithm" />
       <module name="数据结构java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wu.day14_Algorithms.binary_search_no_recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HanoiTower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wu.day14_Algorithms.divided_and_conquer.HanoiTower" />
-      <module name="数据结构java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wu.day14_Algorithms.divided_and_conquer.*" />
+          <option name="PATTERN" value="com.wu.day16.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,6 +271,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wu.day15.dynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.day16.prim.PrimAlgorithm" />
+      <module name="数据结构java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.day16.prim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,19 +336,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinarySearchNoRecur" />
-      <item itemvalue="Application.HanoiTower" />
       <item itemvalue="Application.KnapsackProblem" />
       <item itemvalue="Application.ViolenceMatch" />
       <item itemvalue="Application.KMPAlgorithm" />
+      <item itemvalue="Application.GreedyAlgorithm" />
+      <item itemvalue="Application.PrimAlgorithm" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimAlgorithm" />
+        <item itemvalue="Application.GreedyAlgorithm" />
         <item itemvalue="Application.KMPAlgorithm" />
         <item itemvalue="Application.ViolenceMatch" />
         <item itemvalue="Application.KnapsackProblem" />
-        <item itemvalue="Application.HanoiTower" />
-        <item itemvalue="Application.BinarySearchNoRecur" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +383,8 @@
       <workItem from="1584753186372" duration="1281000" />
       <workItem from="1584754566087" duration="3059000" />
       <workItem from="1584838135533" duration="21155000" />
-      <workItem from="1584936509102" duration="11151000" />
+      <workItem from="1584936509102" duration="12376000" />
+      <workItem from="1585008976126" duration="15206000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构">
       <created>1584079057062</created>
@@ -404,7 +397,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="325963000" />
+    <option name="totallyTimeSpent" value="342394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -420,7 +413,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32842416" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798658" weight="0.2729927" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.29635036" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48759124" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -449,8 +442,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32842416" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798658" weight="0.2890511" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3591241" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798658" weight="0.2729927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48759124" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -518,20 +511,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day06/test/ShellSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day06/test/QuickSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -706,25 +685,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1798">
-          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/java学习/springboot实战/blog/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day10/huffman/HuffmanCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5346">
-          <caret line="194" column="14" selection-start-line="194" selection-start-column="14" selection-end-line="194" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -783,13 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day13/graph/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wu/day09/tree/ArrayBinaryTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -825,10 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -849,17 +803,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day15/kmp/KMPAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wu/day15/kmp/ViolenceMatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
+        <state relative-caret-position="644">
           <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wu/day15/kmp/KMPAlgorithm.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="28">
+          <caret line="395" column="10" selection-start-line="395" selection-start-column="10" selection-end-line="395" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day13/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day10/huffman/HuffmanCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="333" column="24" selection-start-line="333" selection-start-column="24" selection-end-line="333" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day16/greedy/GreedyAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2189">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day16/prim/PrimAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
