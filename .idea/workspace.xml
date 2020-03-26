@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7910316c-4373-41d2-96e9-6c2ac1a25f51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day16/prim/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day16/prim/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day16/prim/minTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day16/prim/minTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day16/kruskal/EData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day16/kruskal/EData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day16/kruskal/KruskalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构java/com/wu/day16/kruskal/KruskalDemo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,13 +30,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/wu/day16/kruskal/KruskalDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/wu/day17/dijkstra/DijkstraAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+            <state relative-caret-position="241">
+              <caret line="30" column="69" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
               <folding>
-                <element signature="e#4233#4234#0" expanded="true" />
-                <element signature="e#4329#4330#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1240#1241#0" expanded="true" />
+                <element signature="e#1265#1266#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/wu/day06/sort/SelectSort.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day06/sort/ShellSort.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day06/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day06/test/BubbleSortTest.java" />
@@ -113,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/com/wu/day16/prim/PrimAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day06/sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/com/wu/day16/kruskal/KruskalDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/wu/day17/dijkstra/DijkstraAlgorithm.java" />
       </list>
     </option>
   </component>
@@ -175,31 +176,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="wu" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="数据结构java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="数据结构java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="wu" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="数据结构java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="数据结构java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="wu" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="数据结构java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="数据结构java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="wu" type="462c0819:PsiDirectoryNode" />
-              <item name="day16" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -210,7 +186,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/数据结构java/src/com/wu/day01/queue/CircleArrayQueueDemo.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585124642319" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585186822285" />
     <property name="last_opened_file_path" value="F:/java基础" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -240,9 +216,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KruskalDemo">
+  <component name="RunManager" selected="Application.DijkstraAlgorithm">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DijkstraAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wu.day17.dijkstra.DijkstraAlgorithm" />
+      <module name="数据结构java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.day17.dijkstra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -303,20 +293,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ViolenceMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wu.day15.kmp.ViolenceMatch" />
-      <module name="数据结构java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wu.day15.kmp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -347,19 +323,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ViolenceMatch" />
       <item itemvalue="Application.KMPAlgorithm" />
       <item itemvalue="Application.GreedyAlgorithm" />
       <item itemvalue="Application.PrimAlgorithm" />
       <item itemvalue="Application.KruskalDemo" />
+      <item itemvalue="Application.DijkstraAlgorithm" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DijkstraAlgorithm" />
         <item itemvalue="Application.KruskalDemo" />
         <item itemvalue="Application.PrimAlgorithm" />
         <item itemvalue="Application.GreedyAlgorithm" />
         <item itemvalue="Application.KMPAlgorithm" />
-        <item itemvalue="Application.ViolenceMatch" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +372,8 @@
       <workItem from="1584838135533" duration="21155000" />
       <workItem from="1584936509102" duration="12376000" />
       <workItem from="1585008976126" duration="15516000" />
-      <workItem from="1585099382287" duration="10795000" />
+      <workItem from="1585099382287" duration="19544000" />
+      <workItem from="1585183896669" duration="3042000" />
     </task>
     <task id="LOCAL-00001" summary="数据结构">
       <created>1584079057062</created>
@@ -409,13 +386,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="353499000" />
+    <option name="totallyTimeSpent" value="365290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21648793" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21648793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -424,7 +401,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32842416" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49798658" visible="true" weight="0.2729927" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798658" weight="0.2729927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3211679" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -460,7 +437,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4986577" weight="0.3211679" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4986577" weight="0.31824818" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5013423" side_tool="true" weight="0.32448378" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.329927" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32448378" />
@@ -523,13 +500,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="218" selection-start-line="218" selection-end-line="218" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -795,9 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3712">
           <caret line="610" selection-start-line="610" selection-end-line="610" />
-          <folding>
-            <element signature="e#22485#22486#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -862,11 +829,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wu/day16/kruskal/KruskalDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        <state relative-caret-position="3321">
+          <caret line="129" column="13" lean-forward="true" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wu/day17/dijkstra/DijkstraAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="30" column="69" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="69" />
           <folding>
-            <element signature="e#4233#4234#0" expanded="true" />
-            <element signature="e#4329#4330#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
           </folding>
         </state>
       </provider>
